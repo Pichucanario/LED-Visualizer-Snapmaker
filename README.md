@@ -1,9 +1,3 @@
-# LED-Visualizer-Snapmaker
-"Control visual para Snapmaker U1 con firmware Extended".
-He añadido una descripción de la secuencia de arranque del ESP32 dentro de la sección **"Características adicionales"** en el punto 2. También he dejado claro que es una comprobación visual del correcto funcionamiento del sistema. Aquí tienes el informe completo, listo para publicar.
-
----
-
 # 🌟 Visualizador LED para Snapmaker U1 – Informe para la Comunidad (BETA)
 
 **Versión actual:** v11.55 – **BETA**  
